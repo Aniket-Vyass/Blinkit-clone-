@@ -137,8 +137,8 @@ class HomeScreen extends StatelessWidget {
               ],
             ),
             SizedBox(height: 5),
-            Expanded(
-              flex: 2,
+            SizedBox(
+              height: 130,
               child: Padding(
                 padding: const EdgeInsets.only(left: 20),
                 child: ListView.builder(

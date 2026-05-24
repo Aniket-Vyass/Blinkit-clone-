@@ -69,7 +69,7 @@ class Mycategory extends StatelessWidget {
                         children: [
                           Container(
                             height: 78,
-                            width: 10,
+                            width: 71,
                             decoration: BoxDecoration(
                               color: Color(0xffd9ebeb),
                               borderRadius: BorderRadius.circular(10),
@@ -89,6 +89,8 @@ class Mycategory extends StatelessWidget {
                     },
                   ),
                 ),
+                Uihelper.horizontalCategoryList(items: grocerykitchen),
+                SizedBox(height: 10),
                 Uihelper.horizontalCategoryList(items: secondgrocery),
                 SizedBox(height: 10),
                 Uihelper.horizontalCategoryList(items: snacksanddrinks),

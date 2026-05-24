@@ -123,7 +123,7 @@ class CategoryScreen extends StatelessWidget {
             ),
             SizedBox(height: 10),
             Expanded(
-              flex: 3,
+              flex: 1,
               child: Padding(
                 padding: const EdgeInsets.only(left: 20),
                 child: ListView.builder(
