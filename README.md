@@ -1,6 +1,12 @@
 <<<<<<< HEAD
 # blinkit_clone_app
+## Screenshots
 
+![Screen 1](screenshots/image1.png)
+![Screen 2](screenshots/image2.png)
+![Screen 3](screenshots/image3.png)
+![Screen 4](screenshots/image4.png)
+![Screen 5](screenshots/image5.png)
 A new Flutter project.
 
 ## Getting Started
@@ -18,3 +24,4 @@ A Flutter-based Blinkit Clone App that replicates the UI and core features of Bl
 
 ● Login with zomato Button is also availabe, it would redirect you to the home screen 
 >>>>>>> d143360c61a6b2d737c6a8198940c8ba574fe0f2
+
