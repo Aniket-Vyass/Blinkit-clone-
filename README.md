@@ -1,12 +1,13 @@
 <<<<<<< HEAD
 # blinkit_clone_app
+
 ## Screenshots
 
-![Screen 1](screenshots/image1.png)
-![Screen 2](screenshots/image2.png)
-![Screen 3](screenshots/image3.png)
-![Screen 4](screenshots/image4.png)
-![Screen 5](screenshots/image5.png)
+<img src="screenshots/image1.png" width="200" height="400"/>
+<img src="screenshots/image2.png" width="200" height="400"/>
+<img src="screenshots/image3.png" width="200" height="400"/>
+<img src="screenshots/image4.png" width="200" height="400"/>
+<img src="screenshots/image5.png" width="200" height="400"/>
 A new Flutter project.
 
 ## Getting Started
